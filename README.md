@@ -25,6 +25,12 @@ Screenshots of the code
 ![image](https://github.com/user-attachments/assets/42962125-2201-45f0-8d63-8d9e23f7357b)
 ![image](https://github.com/user-attachments/assets/29b29163-2c4f-493a-ad82-8ab850fcf851)
 
+Screenshots of changes made to the code:
+![image](https://github.com/user-attachments/assets/0f62abb2-b7f7-4a51-bb13-69f011db5061)
+![image](https://github.com/user-attachments/assets/c13d7719-5819-42b0-993a-d67e44e4736d)
+
+
+
 
 
 
