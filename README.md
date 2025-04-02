@@ -26,9 +26,26 @@ Screenshots of the code
 ![image](https://github.com/user-attachments/assets/29b29163-2c4f-493a-ad82-8ab850fcf851)
 
 Screenshots of changes made to the code:
+
 ![image](https://github.com/user-attachments/assets/0f62abb2-b7f7-4a51-bb13-69f011db5061)
 ![image](https://github.com/user-attachments/assets/c13d7719-5819-42b0-993a-d67e44e4736d)
 
+Added String resouce because the app had the following warnings
+![image](https://github.com/user-attachments/assets/5b299577-b1c8-4c54-a5d9-b45d993d4865)
+
+Strings added:
+![image](https://github.com/user-attachments/assets/2845faa7-1fc4-4f42-9526-e17c83b5fab2)
+
+String refference: 
+//code attribution
+This method was taken from MyBib
+//Link http://mybib.com/
+//Aonon
+
+//code attribution 
+This method was taken from Baeldung
+//Link https://www.baeldung.com/kotlin/concatenate-strings
+//Baeldung
 
 
 
